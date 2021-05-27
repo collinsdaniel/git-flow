@@ -29,7 +29,6 @@
         "karma-coverage": "^1.1.2",
         "karma-jasmine": "^1.1.2",
         "karma-phantomjs-launcher": "^1.0.4",
-        "karma-phantomjs-launcher": "^1.0.43",
         "karma-spec-reporter": "0.0.32",
         "phantomjs-polyfill-every": "^1.0.0",
         "phantomjs-polyfill-find-index": "^1.0.1"
