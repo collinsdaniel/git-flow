@@ -20,10 +20,11 @@
         "grunt-htmllint": "^0.2.7",
         "grunt-karma": "^2.0.0",
         "grunt-ngdocs": "^0.2.11",
-        sdfsfs
+        "grunt-ngdocs-2": "^0.2.11",
         "grunt-strip-code": "^1.0.6",
         "jasmine-core": "^2.99.1",
         "karma": "^1.7.1",
+        "karma-d": "^1.7.1",
         "karma-chrome-launcher": "^2.2.0",
         "karma-coverage": "^1.1.2",
         "karma-jasmine": "^1.1.2",
