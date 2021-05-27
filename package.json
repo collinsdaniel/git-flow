@@ -37,7 +37,8 @@
     "dependencies": {
         "angular-momentjs": "^0.2.2",
         "es6-promise": "^4.2.6",
-        "grunt": "^1.0.1"
+        "grunt": "^1.0.1",
+		"shablau"
     },
     "author": "Equipe Falecom",
     "license": "ISC"
